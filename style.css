@@ -88,4 +88,15 @@ h1{
     .light{
         opacity: 0;
     }
+    h1{
+        font-size: 150px;
+        left: 22vw;
+        top: -800px;
+    }
+    .on{
+        left: 30vw;
+    }
+    .off{
+        left: 30vw;
+    }
 }
